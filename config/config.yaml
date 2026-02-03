@@ -1,0 +1,15 @@
+artifacts_root : C:\\Users\\Damini.gupta\\PycharmProjects\\datascienceproject\\artifacts
+
+data_ingestion:
+  root_dir: C:\\Users\\Damini.gupta\\PycharmProjects\\datascienceproject\\artifacts\\data_ingestion
+  source_URL: https://github.com/krishnaik06/datasets/raw/refs/heads/main/winequality-data.zip
+  local_data_file: C:\\Users\\Damini.gupta\\PycharmProjects\\datascienceproject\\artifacts\\data_ingestion\\data.zip
+  unzip_dir : C:\\Users\\Damini.gupta\\PycharmProjects\\datascienceproject\\artifacts\\data_ingestion
+
+data_validation:
+  root_dir: C:\\Users\\Damini.gupta\\PycharmProjects\\datascienceproject\\artifacts\\data_validation
+  unzip_data_dir : C:\\Users\\Damini.gupta\\PycharmProjects\\datascienceproject\\artifacts\\data_ingestion\\winequality-red.csv
+  STATUS_FILE : C:\\Users\\Damini.gupta\\PycharmProjects\\datascienceproject\\artifacts\\data_validation\\status.txt
+
+
+
