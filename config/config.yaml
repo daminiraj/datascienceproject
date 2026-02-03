@@ -21,3 +21,12 @@ data_training:
   test_data_path : C:\\Users\\Damini.gupta\\PycharmProjects\\datascienceproject\\artifacts\\data_transformation\\test.csv
   model_name: model.joblib
 
+model_evaluation:
+  root_dir : C:\\Users\\Damini.gupta\\PycharmProjects\\datascienceproject\\artifacts\\model_evaluation
+  test_data_path : C:\\Users\\Damini.gupta\\PycharmProjects\\datascienceproject\\artifacts\\data_transformation\\test.csv
+  model_path : C:\\Users\\Damini.gupta\\PycharmProjects\\datascienceproject\\artifacts\\model_trainer\\model.joblib
+  metric_file_name : C:\\Users\\Damini.gupta\\PycharmProjects\\datascienceproject\\artifacts\\model_evaluation\\metrics.json
+
+
+
+
